@@ -7,4 +7,4 @@ Anggota Kelompok:
 <br>• Maulana Pasya Zefanya (24060121140175)
 <br>• Zahid Muhamad Mahfudz (24060121130043)
 
-Stack yang dipakai: PHP Laravel, JavaScipt, SQL (InnoDB)
+Stack yang dipakai: PHP Laravel, JavaScript, SQL (InnoDB)
