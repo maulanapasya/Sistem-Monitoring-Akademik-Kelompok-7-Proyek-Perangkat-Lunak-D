@@ -1,5 +1,5 @@
 Sistem Informasi Monitoring Akademik Mahasiswa Informatika
-<br>Dibuat dalam rangka memenuhi mata kuliah Proyek Perangkat Lunak prodi Informatika Universitas Diponegoro 2023/2024
+<br>Dibuat dalam rangka memenuhi tugas mata kuliah Proyek Perangkat Lunak prodi Informatika Universitas Diponegoro 2023/2024
 
 Anggota Kelompok:
 <br>• Dafa Kurnia Dinata (24060121120003)
